@@ -14,6 +14,7 @@
   "private": true,
   "dependencies": {
     "@agm/core": "^1.0.0-beta.2",
+    "@agm/snazzy-info-window": "^1.0.0-beta.2",
     "@angular/animations": "^5.0.0",
     "@angular/common": "^5.0.0",
     "@angular/compiler": "^5.0.0",
@@ -24,10 +25,10 @@
     "@angular/platform-browser-dynamic": "^5.0.0",
     "@angular/router": "^5.0.0",
     "core-js": "^2.4.1",
+    "dotenv": "^4.0.0",
     "rxjs": "^5.5.2",
-    "zone.js": "^0.8.14",
     "yargs": "^8.0.2",
-    "dotenv": "^4.0.0"
+    "zone.js": "^0.8.14"
   },
   "devDependencies": {
     "@angular/cli": "^1.7.0",
